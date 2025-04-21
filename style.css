@@ -212,6 +212,12 @@ select {
     right: 38px;
     bottom: 0;
 }
+.pt-100{
+    padding-top: 100px;
+}
+.mt-100{
+    margin-top: 100px;
+}
 .smn_Btn{
     font-family: var(--ff-primary);
     padding: 18px 35px;
